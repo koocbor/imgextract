@@ -1,0 +1,12 @@
+{
+  "name": "imgextract",
+  "version": "1.0.0",
+  "description": "Extracts all images from blog posts.",
+  "author": "Rob Cook <robcook@gmail.com>",
+  "scripts": {
+    "start": "node startup.js"
+  },
+  "dependencies": {
+    "dotenv": "^2.0.0"
+  }
+}
