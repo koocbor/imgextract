@@ -7,6 +7,9 @@
     "start": "node startup.js"
   },
   "dependencies": {
-    "dotenv": "^2.0.0"
-  }
+    "dotenv": "^2.0.0",
+    "flickrapi": "^0.4.1",
+    "request": "^2.69.0"
+  },
+  "license": "MIT"
 }

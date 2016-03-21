@@ -42,5 +42,11 @@ jspm_packages
 # VisualStudio Code Files
 .vscode
 
+# Flickr method data
+data
+
 # Source json files
 json_source
+
+# Destination directory for downloaded images
+img_dest
